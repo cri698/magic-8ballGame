@@ -27,7 +27,7 @@ body{
 }
 input{
     position: absolute;
-    top: 45vh;
+    top: 53vh;
     padding: 15px 70px 15px 25px;
     font-size: 15px;
     border-radius: 30px;
@@ -39,7 +39,7 @@ input:focus{
 }
 button{
     position: absolute;
-    top: 51vh;
+    top: 63vh;
     padding: 10px 80px;
     font-size: 20px;
     border-radius: 30px;
